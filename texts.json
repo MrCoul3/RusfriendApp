@@ -1,0 +1,52 @@
+[
+  {
+    "a1": [
+      {
+        "id": 1,
+        "name": "text1a1",
+        "body": "Иван хорошо говорит по английски и немного по французски. Мария и Анна чуть-чуть говорят по английски и хорошо говорят по испански. Я не говорю по русски."
+      },
+      {
+        "id": 2,
+        "name": "text2a1",
+        "body": "zdbfgfhjthxfghshg"
+      }
+    ],
+    "a2": [
+      {
+        "id": 3,
+        "name": "text1a2",
+        "body": "12fdsaewrg3432542a"
+      },
+      {
+        "id": 4,
+        "name": "text2a2",
+        "body": "xsfghrtdehrteh"
+      }
+    ],
+    "b1": [
+      {
+        "id": 5,
+        "name": "text1b1",
+        "body": "12fdsaewrg3432542a"
+      },
+      {
+        "id": 6,
+        "name": "text2b1",
+        "body": "xsfghrtdehrteh"
+      }
+    ],
+    "b2": [
+      {
+        "id": 7,
+        "name": "text1b2",
+        "body": "12fdsaewrg3432542a"
+      },
+      {
+        "id": 8,
+        "name": "text2b2",
+        "body": "xsfghrtdehrteh"
+      }
+    ]
+  }
+]
